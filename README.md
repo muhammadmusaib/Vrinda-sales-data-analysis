@@ -1,4 +1,5 @@
 <img width="1366" height="459" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/38b151ab-82cb-44b4-9fce-6103da280e12" />
+
 # 🛍️ Vrinda Store — Annual Sales Data Analysis
 
 ## 📌 Project Overview
